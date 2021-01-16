@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+}
+
+#buttons {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    height: 50px;
+    width: 100px;
+    text-align: center;
+    margin: 1%;
+}
+
+#round-result, #final-results {
+    text-align: center;
+    padding: 1%;
+}
+
+#score {
+    text-align: center;
+    padding: 1
+}
