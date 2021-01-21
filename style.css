@@ -1,4 +1,15 @@
+html {
+    font-family: "Montserrat", sans-serif;
+    background-color:seashell;
+}
+
 h1 {
+    text-align: center;
+    padding: 10px;
+    color: rgb(41, 46, 48);
+}
+
+p {
     text-align: center;
 }
 
@@ -12,14 +23,15 @@ button {
     width: 100px;
     text-align: center;
     margin: 1%;
+    color: rgb(41, 46, 48);
 }
 
 #round-result, #final-results {
     text-align: center;
-    padding: 1%;
+    padding: 5%;
 }
 
 #score {
     text-align: center;
-    padding: 1
+    padding: 1%;
 }
